@@ -1,0 +1,14 @@
+Script started on 2026-11-02 15:49:50-05:00 [TERM="xterm-color" TTY="/dev/pts/2" COLUMNS="92" LINES="20"]
+[?2004h]0;theia@theiadocker-jorgemariozv: /home/project/final_project[01;32mtheia@theiadocker-jorgemariozv[00m:[01;34m/home/project/final_project[00m$ python3
+[?2004lPython 3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from Emto[K[KotionE[KDetection.emostio_deted[Kctionn_detection[1Ption_detection[C[C[C[C[C[C[C[C[C[C[C[C[C[C import emotion_detector
+>>> tezt_to_analyze = [C[C[1P[4h [4lx[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C""I" "h"a"t"e" "w"o"r"k"i"n"g" "l"o"g"[1P"n"g" "h"o"u"r"s"[C
+>>> response = emotion_detector()t)e)x)t)_)t)o)[C)[K_)a)n)a)l)y)z)e)[C
+>>> print(response)
+{'anger': 0.64949876, 'disgust': 0.03718168, 'fear': 0.05612277, 'joy': 0.00862553, 'sadness': 0.1955148, 'dominant_emotion': 'anger'}
+>>> exit()
+[?2004h]0;theia@theiadocker-jorgemariozv: /home/project/final_project[01;32mtheia@theiadocker-jorgemariozv[00m:[01;34m/home/project/final_project[00m$ exit
+[?2004lexit
+
+Script done on 2026-11-02 15:51:25-05:00 [COMMAND_EXIT_CODE="0"]
