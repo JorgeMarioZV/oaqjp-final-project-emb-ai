@@ -1,0 +1,14 @@
+Script started on 2026-11-02 15:24:06-05:00 [TERM="xterm-color" TTY="/dev/pts/2" COLUMNS="92" LINES="20"]
+[?2004h]0;theia@theiadocker-jorgemariozv: /home/project/final_project[01;32mtheia@theiadocker-jorgemariozv[00m:[01;34m/home/project/final_project[00m$ python3
+[?2004lPython 3.10.12 (main, Aug 31 2026, 10:18:17) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> from emt[Kotion_detection f[Kimport emotion_detector
+>>> text_to_analyze = ""I"m" "s"o" "h"a"y"[1P"p"p"y" "t"o"d"a"[1P"[1P"[1P"[1P"[1P"I"[1P" "I" "a"m" "d"o"i"n"g" "t"h"i"s"
+>>> response = emotion_detector(text_to_analyze)
+>>> print(response)
+{'anger': 0.007419343, 'disgust': 0.0010629435, 'fear': 0.01402513, 'joy': 0.9520704, 'sadness': 0.05857044, 'dominant_emotion': 'joy'}
+>>> exit()
+[?2004h]0;theia@theiadocker-jorgemariozv: /home/project/final_project[01;32mtheia@theiadocker-jorgemariozv[00m:[01;34m/home/project/final_project[00m$ exit
+[?2004lexit
+
+Script done on 2026-11-02 15:25:20-05:00 [COMMAND_EXIT_CODE="0"]
