@@ -14,4 +14,7 @@ __Date:__<br>
 Novmeber 2nd, 2026
 
 __Repo:__<br>
-https://github.com/JorgeMarioZV/emotion-detection-app.git
+https://github.com/JorgeMarioZV/oaqjp-final-project-emb-ai.git
+
+___Original Repo:__<br>
+https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai
