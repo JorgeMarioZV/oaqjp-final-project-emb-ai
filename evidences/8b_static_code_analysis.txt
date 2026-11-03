@@ -1,0 +1,10 @@
+Script started on 2026-11-02 20:30:13-05:00 [TERM="xterm-color" TTY="/dev/pts/0" COLUMNS="89" LINES="20"]
+[?2004h]0;theia@theiadocker-jorgemariozv: /home/project/final_project[01;32mtheia@theiadocker-jorgemariozv[00m:[01;34m/home/project/final_project[00m$ pylint server.py 
+[?2004l
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+[?2004h]0;theia@theiadocker-jorgemariozv: /home/project/final_project[01;32mtheia@theiadocker-jorgemariozv[00m:[01;34m/home/project/final_project[00m$ exit
+[?2004lexit
+
+Script done on 2026-11-02 20:30:44-05:00 [COMMAND_EXIT_CODE="0"]
